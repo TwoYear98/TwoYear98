@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwoYear98)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/TwoYear98/TwoYear98/main/assets/github-contribution-grid-snake.svg)
